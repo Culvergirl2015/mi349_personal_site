@@ -1,0 +1,28 @@
+body{
+    background: #ffffff;
+    color: #781785;
+    padding: 50px;
+    font-family: Arial;
+}
+
+h1{
+    font-size: 3em;
+    border-bottom: 1px solid red;
+    padding-bottom: 5px;
+}
+
+#portfolio{
+    color: red;
+}
+
+* {
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
