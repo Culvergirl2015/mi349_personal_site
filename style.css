@@ -3,6 +3,7 @@ body{
     color: #781785;
     padding: 50px;
     font-family: Arial;
+    
 }
 
 h1{
@@ -20,9 +21,20 @@ h1{
 }
 
 h2{
-    text-align: left;
+    text-align: center;
 }
 
-li {
-    text-align: left;
-}
+
+ul {
+    list-style: none;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  img{
+      float: left;
+  }
+
+
